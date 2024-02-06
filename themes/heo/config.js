@@ -44,7 +44,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: '#', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -109,7 +109,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '关注我们的公众号讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '微信点这里关注公众号/微信公众号搜索Z网络',
+  HEO_SOCIAL_CARD_TITLE_3: '微信点这里关注公众号<br>微信公众号搜索Z网络',
   HEO_SOCIAL_CARD_URL: 'https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODcxOTAzMQ==&scene=110#wechat_redirect',
 
   // *****  以下配置无效，只是预留开发 ****
